@@ -444,7 +444,7 @@ Defined in conflicts.dm of the #defines folder.
 
 /obj/item/attachable/heatlens
 	name = "M43 heat lens"
-	desc = "Changes the intensity and freqency of the laser. This makes your target be set on fire at a large reduction of upfront damage."
+	desc = "Changes the intensity and frequency of the laser. This makes your target be set on fire at a large reduction of upfront damage and no penetration."
 	slot = "muzzle"
 	icon_state = "heat"
 	attach_icon = "heat_a"
